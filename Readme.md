@@ -1,0 +1,3 @@
+## Usecase
+
+GlobalEduConnect is a rapidly expanding online education platform that provides courses and resources to students worldwide. Due to its sensitive student data and the need to comply with international privacy regulations, GlobalEduConnect requires a robust and consistent security posture across all its GCP projects. They aim to implement project-wide security policies to enforce best practices and minimize security risks.
